@@ -3,7 +3,9 @@
 ##SOAL
 
 pada bagian ini saya diberikan tugas sebagai berikut :
-![image](https://user-images.githubusercontent.com/92866211/144412376-2f880c77-2df9-424f-80b5-2a9274def207.png)
+
+![image](https://user-images.githubusercontent.com/92866211/144430913-3d558d60-e3e8-46a1-883b-48c72ed15ff4.png)
+
 
 ##JAWAB
 
@@ -123,11 +125,12 @@ lalu menambahan else untuk menyetop loopingan tadi :
 
 Dibawah ini adalah syntax pada visual studio code  :
 
-![img](gambar/latihan2.PNG)
+![image](https://user-images.githubusercontent.com/92866211/144430770-b48ece7a-d1ac-42f0-9486-66d227788b75.png)
+
 
 ## Output
 
-![img](gambar/output2.PNG)
+![image](https://user-images.githubusercontent.com/92866211/144430820-01c55348-b78a-4341-89dd-579c8faa0a57.png)
 
 
 
