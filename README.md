@@ -71,7 +71,8 @@ Dibawah ini adalah syntax pada visual studio code :
 
 dan contoh flowchart nya sebagai berikut :
 
-![img](flowchart.PNG)
+![image](https://user-images.githubusercontent.com/92866211/144420415-57f9a6c8-b81f-4c85-8738-eb06ec058b3f.png)
+
 
 ## Jawab
 
